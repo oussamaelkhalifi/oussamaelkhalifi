@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oussamaelkhalifi
-- 👀 I’m interested in functional programming
-- 🌱 I’m currently learning Object oritented programming
-- 💞️ I’m looking to collaborate on projet like ReactJS, React-anttive, Srping boot
+- 👀 I’m interested in functional programming, microservices, Javascript, React js and React-native
+- 🌱 I’m currently learning microservice architecture and Object oritented programming
+- 💞️ I’m looking to collaborate on projet like ReactJS, React-anttive, Srping boot, JS libraries, reusable React components ...
 - 📫 How to reach me oussama.elkhalifi@gmail.com
 
 <!---
